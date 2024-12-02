@@ -1,0 +1,17 @@
+Work: N/A
+Task: N/A
+Descrição da Atividade: Ajudar na organização de padrões e refatoração do código da org elera.
+Início: 01/08/2024
+Término: 16/08/2024
+Impedimento: N/A
+Squad: N/A
+Responsável: Luiz Miguel
+Status: em andamento
+
+
+
+
+
+
+
+
